@@ -1,4 +1,5 @@
 #!/bin/sh -l
+ls -al
 
 echo "Hello $1"
 time=$(date)
